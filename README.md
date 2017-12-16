@@ -1,0 +1,2 @@
+# Python-Based-Back-Propagation-Neural-Network-for-Automatic-Speech-Recognition
+A simple neural network was designed and trained using backpropogation algorithm for automatic speech recognition. The speech dataset included recordings of 4 speakers , with each digit having 50 recordings per person. MFCC(Mel Frequency Cepstral Coefficients) feature extraction technique was used to extract features from each recording.
